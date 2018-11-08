@@ -17,6 +17,11 @@ Right click on the whatsapp icon and press "Show app" to maximize the window aga
 
 ## Screenshots
 
+![](/screenshots/screen_1.png)
+
+
+![](/screenshots/screen_2.png)
+
 ## To-Do
 - [ ] Test the client on different O.S. (Windows, MacOS and other Linux distributions)
 - [ ] Pack the Electron app into executable files (for Linux, Windows and Apple)
