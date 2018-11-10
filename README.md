@@ -1,4 +1,4 @@
-# Whatsapp Desktop Client
+# Whatsapp Desktop Client (unofficial)
 A simple Whatsapp Desktop Client multiplatform (build with Electron, tested on Manjaro)
 
 ## Installation
